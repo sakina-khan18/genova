@@ -66,4 +66,4 @@ Genova is a React-based web application designed to help users create profession
 
 5.  **Open your browser and navigate to `http://localhost:3000` (or the address shown in your terminal).**
 
-## Project Structure
+
