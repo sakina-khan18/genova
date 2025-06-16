@@ -46,7 +46,7 @@ const NavBar=(()=>
     return (
         <>
               {/* Navigation */}
-      <nav className={`fixed w-full z-50 transition-all duration-700 ${
+      <nav className={` fixed w-full z-50 transition-all duration-700  ${
         scrollY > 20 ? 'bg-black/80 backdrop-blur-2xl border-b border-white/20' : 'bg-transparent'
       }`}>
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
